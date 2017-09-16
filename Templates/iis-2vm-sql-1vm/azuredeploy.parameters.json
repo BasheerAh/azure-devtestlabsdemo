@@ -12,7 +12,7 @@
     "value": "devts"
   },
    "_artifactsLocation":  {
-  "value": "https://github.com/BasheerAh/azure-devtestlabsdemo/tree/master/Templates/iis-2vm-sql-1vm"
+  "value": "https://github.com/BasheerAh/azure-devtestlabsdemo/raw/master/Templates/iis-2vm-sql-1vm"
   }
     
   }
