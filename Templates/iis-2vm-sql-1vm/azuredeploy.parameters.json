@@ -8,5 +8,8 @@
     "password": {
       "value": "Welcome@1234"
     }
+    "uniquePrefix" : {
+    "value": "devts"
+  }
   }
 }
