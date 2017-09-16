@@ -10,6 +10,10 @@
     },
     "uniquePrefix": {
     "value": "devts"
+  },
+   "_artifactsLocation":  {
+  "value": "iis-2vm-sql-1vm/scripts/"
   }
+    
   }
 }
